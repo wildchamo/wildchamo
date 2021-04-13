@@ -7,7 +7,7 @@
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ![Webpack](https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=webpack) 
 ## 📊 My GitHub's Stats
 
-![wildChamo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wildchamo&show_icons=true&title_color=fff&bg_color=EFB4B0,3a0943,000&text_color=fff&icon_color=fff&hide_border=true&theme=dracula)
+![wildChamo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wildchamo&theme=graywhite&show_icons=true)
 
 ## 📞 Get In Touch
 
