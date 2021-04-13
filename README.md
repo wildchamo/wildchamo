@@ -1,4 +1,4 @@
-![Header](https://github.com/wildchamo/wildchamo/blob/master/github-header.png?raw=true)
+![Header](https://github.com/wildchamo/wildchamo/blob/master/github-header1.png?raw=true)
 
 📌 I’m a developer from Colombia who is mainly interested in web technologies, specially in **frontend development**.
 
