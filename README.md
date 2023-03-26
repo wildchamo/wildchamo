@@ -1,6 +1,8 @@
-![Header](https://github.com/wildchamo/wildchamo/blob/master/github-header1.png?raw=true)
+<h2> Hola! Soy Jose Luis Bedoya </h2> 
 
-📌 I’m a developer from Colombia who is mainly interested in web technologies, specially in **frontend development**.
+Soy un **desarrollador frontend** apasionado por la tecnología, la creación de comunidades y por hacer del mundo un lugar mejor!
+
+Actualmente estoy compartiendo mi conocimiento por [![Dev.to: wildchamo](https://img.shields.io/badge/Dev.to-Dev%20Blog-ff69b4)](https://dev.to/wildchamo) 
 
 ## 🛠 My Stack
 
