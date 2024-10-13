@@ -10,10 +10,10 @@ Actualmente estoy compartiendo mi conocimiento por [![Dev.to: wildchamo](https:/
 Estás son las tecnologías que manejo para hacer mis sitios web:
 ```javascript
 const wildchamo = {
-  code: ["Javascript", "HTML", "CSS"],
-  tools: ["React"],
-  cssFrameworks: ["Material Design"],
-  SO: ["Ubuntu: Kinetic Duo"]
+  code: ["Javascript", "HTML", "CSS", "Typescript"],
+  tools: ["React", "Next", "Supabase"],
+  dbs: ["mongoDB", "firebase", "Postgres"],
+  payments: ["wompi", "Stripe"]
 }
 ``` 
 
