@@ -4,8 +4,6 @@
 
 Soy un **software developer** apasionado por la tecnología, la creación de comunidades y por hacer del mundo un lugar mejor!
 
-Actualmente estoy compartiendo mi conocimiento por [![Dev.to: wildchamo](https://img.shields.io/badge/Dev.to-Dev%20Blog-ff69b4)](https://dev.to/wildchamo) 
-
 ## 🛠 Mi Stack
 Estás son las tecnologías que manejo para hacer mis sitios web:
 ```javascript
