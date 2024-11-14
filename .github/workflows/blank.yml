@@ -3,13 +3,16 @@ name: Update README 1
 on:
   schedule:
     - cron: '0 */12 * * *'
-    
+  workflow_dispatch:
 
 jobs:
-  update-readme:
-    runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-lastest
+    name: Update Profile README
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-      - name: Update README with recent activity
-        uses: wildchamo/wildchamo@main # Reemplaza con tu información
+      - uses: actions/checkout@2.3.4
+
+      - uses: Readme-Workflows/recent-activity@2.4.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
