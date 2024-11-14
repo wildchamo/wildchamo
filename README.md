@@ -23,3 +23,5 @@ const wildchamo = {
 - Instagram - [@wildchamo](https://www.instagram.com/wildchamo/)
 - LinkedIn - [Jose Luis Bedoya](https://www.linkedin.com/in/jose-luis-bedoya/)
 
+## Actividad Reciente:
+
