@@ -12,4 +12,4 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
       - name: Update README with recent activity
-        uses: wildchamo/wildchamo # Reemplaza con tu información
+        uses: wildchamo/wildchamo@main # Reemplaza con tu información
